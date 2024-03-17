@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268086908171",
+    "project_id": "onlinequiz-f994a",
+    "storage_bucket": "onlinequiz-f994a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268086908171:android:66a23d61a5e4c17de43e0e",
+        "android_client_info": {
+          "package_name": "com.nyandori.onlinequiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAokgdn8X0RgjpEUhv8AWhtkTbPBidBEuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
